@@ -1,2 +1,2 @@
 # Contributors
-- [Sommani](sommani@github.com)
+- [Pichid Detson](bencomtech@gmail.com)
