@@ -1,2 +1,2 @@
 # Contributors
-- [Pichid Detson](bencomtech@gmail.com)
+- [Pichid](bencomtech@gmail.com)
